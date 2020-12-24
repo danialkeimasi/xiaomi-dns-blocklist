@@ -2,7 +2,6 @@ a.stat.xiaomi.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
-account.xiaomi.com
 ad.mi.com
 ad.xiaomi.com
 ad1.xiaomi.com
@@ -11,7 +10,6 @@ adv.sec.miui.com
 api-setting-intl-miui-com-59771552.ap-south-1.elb.amazonaws.com
 api.accelerator.intl.miui.com
 api.account.preview.n.xiaomi.net
-api.account.xiaomi.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
 api.admob.xiaomi.com
@@ -97,8 +95,6 @@ fe05.lg.xiaomi.com
 feedback.miui.com
 file.market.xiaomi.com
 file.xmpush.xiaomi.com
-find.api.micloud.xiaomi.net
-findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
@@ -109,7 +105,6 @@ gallery.cdn.pandora.xiaomi.com
 gallery.pandora.xiaomi.com
 game.xiaomi.com
 geofence.sys.miui.com
-global.market.xiaomi.com
 global.preview.app.market.pt.xiaomi.com
 global.search.xiaomi.net
 globalapi.ad.xiaomi.com
